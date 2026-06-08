@@ -32,7 +32,7 @@ docker-compose.yml → Container setup
 - REST-style PHP API
 - Dockerized 3-tier architecture
 
----
+Thanks 🫡
 
 ## How to Run
 
